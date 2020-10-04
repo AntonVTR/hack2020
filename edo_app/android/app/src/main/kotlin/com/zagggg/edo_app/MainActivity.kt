@@ -1,0 +1,6 @@
+package com.zagggg.edo_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
